@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Documents\BaitapC#vscode\BaitapC#vs\AnimalControl_OOP\obj\Debug\net6.0\AnimalControl_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\BaitapC#vscode\BaitapC#vs\AnimalControl_OOP\obj\Debug\net6.0\AnimalControl_OOP.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\BaitapC#vscode\BaitapC#vs\AnimalControl_OOP\obj\Debug\net6.0\AnimalControl_OOP.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\BaitapC#vscode\BaitapC#vs\AnimalControl_OOP\obj\Debug\net6.0\AnimalControl_OOP.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\BaitapC#vscode\BaitapC#vs\AnimalControl_OOP\bin\Debug\net6.0\AnimalControl_OOP.exe
+C:\Users\ADMIN\Documents\BaitapC#vscode\BaitapC#vs\AnimalControl_OOP\bin\Debug\net6.0\AnimalControl_OOP.deps.json
+C:\Users\ADMIN\Documents\BaitapC#vscode\BaitapC#vs\AnimalControl_OOP\bin\Debug\net6.0\AnimalControl_OOP.runtimeconfig.json
+C:\Users\ADMIN\Documents\BaitapC#vscode\BaitapC#vs\AnimalControl_OOP\bin\Debug\net6.0\AnimalControl_OOP.dll
+C:\Users\ADMIN\Documents\BaitapC#vscode\BaitapC#vs\AnimalControl_OOP\bin\Debug\net6.0\AnimalControl_OOP.pdb
+C:\Users\ADMIN\Documents\BaitapC#vscode\BaitapC#vs\AnimalControl_OOP\obj\Debug\net6.0\AnimalControl_OOP.dll
+C:\Users\ADMIN\Documents\BaitapC#vscode\BaitapC#vs\AnimalControl_OOP\obj\Debug\net6.0\refint\AnimalControl_OOP.dll
+C:\Users\ADMIN\Documents\BaitapC#vscode\BaitapC#vs\AnimalControl_OOP\obj\Debug\net6.0\AnimalControl_OOP.pdb
+C:\Users\ADMIN\Documents\BaitapC#vscode\BaitapC#vs\AnimalControl_OOP\obj\Debug\net6.0\AnimalControl_OOP.genruntimeconfig.cache
+C:\Users\ADMIN\Documents\BaitapC#vscode\BaitapC#vs\AnimalControl_OOP\obj\Debug\net6.0\ref\AnimalControl_OOP.dll
